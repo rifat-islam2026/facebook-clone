@@ -1,0 +1,22 @@
+@media(max-width:720px){
+    .container{
+        width: 96%
+    }
+    #contant-area{
+       flex-direction: column;
+       padding: 35px 0;
+    }
+    .left-side{
+        flex-basis: 100%;
+        text-align: center;
+    }
+    .left-side h2{
+        font-size: 22px;
+        padding-left:0px;
+        margin-bottom: 40px;
+    }
+    .form-area{
+        flex-basis: 100%;
+        text-align: center;
+    }
+}
